@@ -1,3 +1,27 @@
+.for_btn1 {
+  margin-left: 490px;
+  width: 350px;
+  height: 30px;
+}
 body {
-    padding: 20px;
+  background: #000000;
+}
+h1 {
+  text-align: center;
+  color: #ffffff;
+}
+h4 {
+  text-align: center;
+  color: #ffffff;
+}  
+ol {
+  list-style: none;
+  margin-left: 520px;
+  padding: 0;
+  width: 300px;
+  background: #eeeeee;
+  border: 1px solid #b3b3b2;
+}
+li {
+  padding: 5px;
 }
